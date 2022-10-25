@@ -1,2 +1,4 @@
 /.env
 /voice.html
+/.idea
+./mydb.db
