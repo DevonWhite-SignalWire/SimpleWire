@@ -5,7 +5,6 @@
   "dependencies": {
     "@signalwire/realtime-api": "^3.5.1",
     "dotenv": "^16.0.3",
-    "mysql": "^2.18.1",
     "sqlite3": "^5.1.2"
   }
 }
